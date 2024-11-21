@@ -1,0 +1,3692 @@
+[
+  {
+    "bin": 413226,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 444676,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 444677,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 444678,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 453955,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 453956,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 454671,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 454672,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 454673,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 454674,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 454894,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540130,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540134,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 541001,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 541033,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542374,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547287,
+    "banka_kodu": 10,
+    "banka_adi": "T.C. ZİRAAT BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 415514,
+    "banka_kodu": 12,
+    "banka_adi": "T. HALK BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 492094,
+    "banka_kodu": 12,
+    "banka_adi": "T. HALK BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 492095,
+    "banka_kodu": 12,
+    "banka_adi": "T. HALK BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 498852,
+    "banka_kodu": 12,
+    "banka_adi": "T. HALK BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521378,
+    "banka_kodu": 12,
+    "banka_adi": "T. HALK BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540435,
+    "banka_kodu": 12,
+    "banka_adi": "T. HALK BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 543081,
+    "banka_kodu": 12,
+    "banka_adi": "T. HALK BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552879,
+    "banka_kodu": 12,
+    "banka_adi": "T. HALK BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 510056,
+    "banka_kodu": 12,
+    "banka_adi": "T. HALK BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 402940,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 409084,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411724,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411942,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411943,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411944,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411979,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 415792,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 416757,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 428945,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 493840,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 493841,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 493846,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 520017,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540045,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540046,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542119,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542798,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542804,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547244,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552101,
+    "banka_kodu": 15,
+    "banka_adi": "T. VAKIFLAR BANKASI T.A.O.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402458,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402459,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 406015,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 427707,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 440247,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 440273,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 440293,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 440294,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 479227,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 489494,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 489495,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 489496,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 510138,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 510139,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 510221,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 512753,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 512803,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 524346,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 524839,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 524840,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 528920,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 530853,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 545124,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "SIGNIA",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 553090,
+    "banka_kodu": 32,
+    "banka_adi": "TÜRK EKONOMİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 413252,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 425669,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 432071,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 432072,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 435508,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 435509,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 493837,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 512754,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 520932,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521807,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 524347,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542110,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552608,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552609,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 553056,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 557113,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 557829,
+    "banka_kodu": 46,
+    "banka_adi": "AKBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 403836,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 409622,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411156,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411157,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411158,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411159,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411160,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 433383,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 433384,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 494063,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 494064,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521394,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521827,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 525404,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 530866,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 539703,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547311,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 549208,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 549394,
+    "banka_kodu": 59,
+    "banka_adi": "ŞEKERBANK T.A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 403280,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 403666,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 404308,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 413836,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 426886,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 426887,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 426888,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 427314,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 427315,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 428220,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 428221,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 432154,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 448472,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 461668,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 462274,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 467293,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 467294,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 467295,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 474151,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 482489,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 482490,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 482491,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 486567,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 487074,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 487075,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 489478,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 490175,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 492186,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 492187,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 492193,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 493845,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 514915,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 520097,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 520922,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 520940,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 520988,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521368,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521824,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521825,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521832,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 522204,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 528939,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 528956,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 533169,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 534261,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "WORLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540036,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540037,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540226,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540227,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540669,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540709,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 541865,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542030,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 544078,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 545102,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "SIGNIA",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 546001,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": "PREPAID"
+  },
+  {
+    "bin": 547302,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552095,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 553130,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 554796,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 554960,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 557023,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 557945,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 558699,
+    "banka_kodu": 62,
+    "banka_adi": "T. GARANTİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 418342,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 418343,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 418344,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 418345,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 450803,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 454318,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 454358,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 454359,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 454360,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 510152,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540667,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540668,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 543771,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552096,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 553058,
+    "banka_kodu": 64,
+    "banka_adi": "T. İŞ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 404809,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 446212,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 450634,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 455359,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 477959,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 479794,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 479795,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 491205,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 491206,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 492128,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 492130,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 492131,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 510054,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 540061,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540062,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 540063,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540122,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540129,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542117,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 545103,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "SIGNIA",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552645,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552659,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 554422,
+    "banka_kodu": 67,
+    "banka_adi": "YAPI ve KREDİ BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 427308,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 438040,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 450918,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 455645,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 525314,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542259,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "TITANIUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547985,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 545148,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "SIGNIA",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 549998,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 550449,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552207,
+    "banka_kodu": 71,
+    "banka_adi": "FORTIS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 426391,
+    "banka_kodu": 92,
+    "banka_adi": "CITIBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 426392,
+    "banka_kodu": 92,
+    "banka_adi": "CITIBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 450050,
+    "banka_kodu": 92,
+    "banka_adi": "CITIBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 450051,
+    "banka_kodu": 92,
+    "banka_adi": "CITIBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521376,
+    "banka_kodu": 92,
+    "banka_adi": "CITIBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 544127,
+    "banka_kodu": 92,
+    "banka_adi": "CITIBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 544445,
+    "banka_kodu": 92,
+    "banka_adi": "CITIBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 544460,
+    "banka_kodu": 92,
+    "banka_adi": "CITIBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547712,
+    "banka_kodu": 92,
+    "banka_adi": "CITIBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 549220,
+    "banka_kodu": 92,
+    "banka_adi": "CITIBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 419389,
+    "banka_kodu": 96,
+    "banka_adi": "TURKISH BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 518599,
+    "banka_kodu": 96,
+    "banka_adi": "TURKISH BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 529939,
+    "banka_kodu": 96,
+    "banka_adi": "TURKISH BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552098,
+    "banka_kodu": 96,
+    "banka_adi": "TURKISH BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 400684,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 408579,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 414070,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 420322,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 420323,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 420324,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 455571,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 480296,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 490805,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 490806,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 490807,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 510151,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 532443,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540024,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540025,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542029,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542605,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542965,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542967,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547765,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 548819,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 554297,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 554570,
+    "banka_kodu": 99,
+    "banka_adi": "ING BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 518679,
+    "banka_kodu": 103,
+    "banka_adi": "MILLENNIUM BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 534913,
+    "banka_kodu": 103,
+    "banka_adi": "MILLENNIUM BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 543624,
+    "banka_kodu": 103,
+    "banka_adi": "MILLENNIUM BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 548375,
+    "banka_kodu": 108,
+    "banka_adi": "TURKLAND BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402277,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402278,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402563,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 403082,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 409364,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 410147,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 413583,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 414388,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 415565,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 422376,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 423277,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 423398,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 427311,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 435653,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 441007,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 444029,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 499850,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 499851,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 499852,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 519324,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521022,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521836,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 529572,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 531157,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 545120,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "SIGNIA",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 545616,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 545847,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547567,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547800,
+    "banka_kodu": 111,
+    "banka_adi": "FİNANS BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 405913,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 405917,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 405918,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 409071,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 422629,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 424909,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 428240,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 496019,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 510005,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 512651,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 519399,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 521045,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 522054,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 525413,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 525795,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 540643,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 542254,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 545183,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "SIGNIA",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 550472,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 550473,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552143,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 556030,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 556031,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 556033,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 556034,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 556665,
+    "banka_kodu": 123,
+    "banka_adi": "HSBC BANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 424407,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 483013,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "VISA",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 491373,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 491374,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 498516,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 498517,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 498518,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 498519,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 498520,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 498521,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 543943,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 543944,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 545863,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547680,
+    "banka_kodu": 125,
+    "banka_adi": "EUROBANK TEKFEN A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 403134,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 408625,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 409070,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411924,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 423667,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": "PREPAID"
+  },
+  {
+    "bin": 424360,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 424361,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 441139,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 460345,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 460347,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 462276,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": "PREPAID"
+  },
+  {
+    "bin": 472914,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 489456,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 510063,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 510118,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 510119,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 512017,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 512117,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 514924,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 520019,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 520303,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 543358,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 543400,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 543427,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 546764,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 554483,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 558514,
+    "banka_kodu": 134,
+    "banka_adi": "DENİZBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 425846,
+    "banka_kodu": 135,
+    "banka_adi": "ANADOLUBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 425847,
+    "banka_kodu": 135,
+    "banka_adi": "ANADOLUBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 425848,
+    "banka_kodu": 135,
+    "banka_adi": "ANADOLUBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 441341,
+    "banka_kodu": 135,
+    "banka_adi": "ANADOLUBANK A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 522240,
+    "banka_kodu": 135,
+    "banka_adi": "ANADOLUBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 522241,
+    "banka_kodu": 135,
+    "banka_adi": "ANADOLUBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 554301,
+    "banka_kodu": 135,
+    "banka_adi": "ANADOLUBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 558593,
+    "banka_kodu": 135,
+    "banka_adi": "ANADOLUBANK A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 417715,
+    "banka_kodu": 203,
+    "banka_adi": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 432284,
+    "banka_kodu": 203,
+    "banka_adi": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 432285,
+    "banka_kodu": 203,
+    "banka_adi": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 534264,
+    "banka_kodu": 203,
+    "banka_adi": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547234,
+    "banka_kodu": 203,
+    "banka_adi": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 548232,
+    "banka_kodu": 203,
+    "banka_adi": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402589,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402590,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402592,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 403360,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 403810,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 410555,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 410556,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 424487,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 431024,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 511660,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 512595,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 518896,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 520180,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547564,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 525312,
+    "banka_kodu": 205,
+    "banka_adi": "KUVEYT TÜRK KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "MIXED PRODUCT",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 404952,
+    "banka_kodu": 206,
+    "banka_adi": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 411685,
+    "banka_kodu": 206,
+    "banka_adi": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 428462,
+    "banka_kodu": 206,
+    "banka_adi": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 435627,
+    "banka_kodu": 206,
+    "banka_adi": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 435628,
+    "banka_kodu": 206,
+    "banka_adi": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 521848,
+    "banka_kodu": 206,
+    "banka_adi": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 537719,
+    "banka_kodu": 206,
+    "banka_adi": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 549294,
+    "banka_kodu": 206,
+    "banka_adi": "TÜRKİYE FİNANS KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402275,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402276,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 402280,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 416987,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 441033,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "VISA",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 515849,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 524384,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "PLATINUM",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 527585,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 529462,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 531334,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 547799,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 552529,
+    "banka_kodu": 208,
+    "banka_adi": "ASYA KATILIM BANKASI A.Ş.",
+    "type": "MASTERCARD",
+    "sub_type": "BUSINESS",
+    "virtual": "virtual",
+    "prepaid": ""
+  },
+  {
+    "bin": 492192,
+    "banka_kodu": 900,
+    "banka_adi": "PROVUS BİLİŞİM",
+    "type": "VISA",
+    "sub_type": "Acquiring",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 512446,
+    "banka_kodu": 900,
+    "banka_adi": "PROVUS BİLİŞİM",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 515865,
+    "banka_kodu": 900,
+    "banka_adi": "PROVUS BİLİŞİM",
+    "type": "MASTERCARD",
+    "sub_type": "GOLD",
+    "virtual": "",
+    "prepaid": ""
+  },
+  {
+    "bin": 520909,
+    "banka_kodu": 900,
+    "banka_adi": "PROVUS BİLİŞİM",
+    "type": "MASTERCARD",
+    "sub_type": "CLASSIC",
+    "virtual": "",
+    "prepaid": ""
+  }
+]
